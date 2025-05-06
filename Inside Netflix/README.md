@@ -18,25 +18,6 @@ This project is a **Power BI dashboard** built using a publicly available **Netf
 * **Power Query Editor** – for cleaning and transforming data
 * **DAX Measures** – for custom calculations like title count
 * **Slicers & Filters** – for interactive exploration
-* **Bar Charts, Pie Charts,Line chart – for clear visual storytelling
-* **Custom Themes and Layouts** – for a clean design
-
-📷 *Snapshot(s) of the dashboard below for reference*
-
-Sure Saloni! Here's a short and clear **description** you can add to your `README.md` for your **Netflix Data Dashboard** project using Power BI:
-
----
-
-### 📊 Netflix Titles Dashboard – Power BI
-
-This interactive dashboard visualizes Netflix titles data using Microsoft Power BI. It includes insights on content types, genres, countries, release trends, and more.
-
-#### 🛠 Tools & Features Used:
-
-* **Power BI Desktop** – for building the report
-* **Power Query Editor** – for cleaning and transforming data
-* **DAX Measures** – for custom calculations like title count
-* **Slicers & Filters** – for interactive exploration
 * **Bar Charts, Pie Chart, Line Chart** – for clear visual storytelling
 * **Custom Themes and Layouts** – for a clean design
   
